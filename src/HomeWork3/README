@@ -1,0 +1,36 @@
+HomeWork3 содержание:
+
+(№ задания - пакет-название класса --- пакет-назвние класса)
+
+Task1 - calcs-WithoutCalculatorMain.java
+
+Task2 - calcs-simple\CalculatorWithOperator.java --- runners-CalculatorWithOperatorMain.java
+
+Task3 - calcs-simple-CalculatorWithMathCopy.java --- runners-CalculatorWithMathCopyMain.java
+
+Task4 - calcs-simple\CalculatorWithMathExtends.java --- runners-CalculatorWithMathExtendsMain.java
+
+Task5 - calcs-additional\CalculatorWithCounterClassic.java --- runners-CalculatorWithCounterClassicMain.java
+
+Task6 - calcs-additional\CalculatorWithCounterAutoSuper.java --- runners-CalculatorWithCounterAutoSuperMain.java
+
+Task7 - calcs-additional\CalculatorWithCounterAutoComposite.java --- runners-CalculatorWithCounterDelegateCompositeMain.java
+
+Task8 - calcs-additional\CalculatorWithCounterAutoAgregation.java --- runners-CalculatorWithCounterDelegateAgregationMain.java
+
+Task9 - Отсутствует
+
+Task10 - calcs-api-ICalculator.java;
+         calcs-simple-CalculatorWithOperator.java;
+         calcs-simple-CalculatorWithMathCopy.java;
+         calcs-simple-CalculatorWithMathExtends.java
+
+Task11 - Отсутствует
+
+Task12 - Отсутствует
+
+Task13 - Отсутствует
+
+Task14 - Отсутствует
+
+Task15 - Отсутствует
